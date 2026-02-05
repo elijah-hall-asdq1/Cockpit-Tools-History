@@ -1,0 +1,56 @@
+name: 自动监控更新
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时执行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 检查版本并下载资源
+        id: check
+        run: python check_version.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 提交更改 (README/VERSION/History)
+        if: steps.check.outputs.version_changed == 'true' || steps.check.outputs.readme_changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md history.json VERSION
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update to ${{ steps.check.outputs.version }}"
+          git push
+
+      - name: 发布 Release
+        if: steps.check.outputs.version_changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.check.outputs.version }}
+          name: Cockpit Tools ${{ steps.check.outputs.version }}
+          body: |
+            自动同步自 [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
+            
+            原始更新日志:
+            
+            ${{ steps.check.outputs.body }}
+          files: |
+            ${{ steps.check.outputs.assets }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
