@@ -17,6 +17,10 @@
                 "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_0.9.7_aarch64.AppImage"
             },
             {
+                "name": "Cockpit.Tools_0.9.7_aarch64.dmg",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_0.9.7_aarch64.dmg"
+            },
+            {
                 "name": "Cockpit.Tools_0.9.7_amd64.AppImage",
                 "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_0.9.7_amd64.AppImage"
             },
@@ -45,12 +49,20 @@
                 "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_0.9.7_x64_en-US.msi"
             },
             {
+                "name": "Cockpit.Tools_aarch64.app.tar.gz",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_aarch64.app.tar.gz"
+            },
+            {
                 "name": "Cockpit.Tools_universal.app.tar.gz",
                 "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_universal.app.tar.gz"
             },
             {
                 "name": "Cockpit.Tools_x64.app.tar.gz",
                 "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/Cockpit.Tools_x64.app.tar.gz"
+            },
+            {
+                "name": "SHA256SUMS.txt",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.9.7/SHA256SUMS.txt"
             }
         ]
     },
