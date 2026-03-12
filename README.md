@@ -2,11 +2,11 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-03-12 17:50:49
+> 上次检测时间 (UTC+8): 2026-03-12 18:45:09
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v0.13.0
-**发布时间 (UTC+8)**: `2026-03-12 17:22:12`  |  [查看详细变更日志](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.13.0)
+**发布时间 (UTC+8)**: `2026-03-12 18:15:45`  |  [查看详细变更日志](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.13.0)
 
 | 平台 (Platform) | 为了美观，请下载对应的版本 (Download) |
 | :--- | :--- |
@@ -18,7 +18,7 @@
 ## 📜 所有历史版本 (All Versions)
 
 ### v0.13.0
-> 📅 **发布时间**: `2026-03-12 17:22:12` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.13.0)
+> 📅 **发布时间**: `2026-03-12 18:15:45` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.13.0)
 
 #### 🪟 Windows
 - [Cockpit.Tools_0.13.0_x64-setup.exe.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.13.0/Cockpit.Tools_0.13.0_x64-setup.exe.sig)
