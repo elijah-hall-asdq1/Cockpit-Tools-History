@@ -1,5 +1,120 @@
 [
     {
+        "tag_name": "v0.17.3",
+        "published_at": "2026-03-20T04:15:50Z",
+        "html_url": "https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.17.3",
+        "assets": [
+            {
+                "name": "Cockpit.Tools-0.17.3-1.aarch64.rpm",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools-0.17.3-1.aarch64.rpm"
+            },
+            {
+                "name": "Cockpit.Tools-0.17.3-1.aarch64.rpm.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools-0.17.3-1.aarch64.rpm.sig"
+            },
+            {
+                "name": "Cockpit.Tools-0.17.3-1.x86_64.rpm",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools-0.17.3-1.x86_64.rpm"
+            },
+            {
+                "name": "Cockpit.Tools-0.17.3-1.x86_64.rpm.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools-0.17.3-1.x86_64.rpm.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_aarch64.AppImage",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_aarch64.AppImage"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_aarch64.AppImage.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_aarch64.AppImage.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_aarch64.dmg",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_aarch64.dmg"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_amd64.AppImage",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_amd64.AppImage"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_amd64.AppImage.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_amd64.AppImage.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_amd64.deb",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_amd64.deb"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_amd64.deb.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_amd64.deb.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_arm64.deb",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_arm64.deb"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_arm64.deb.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_arm64.deb.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_universal.dmg",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_universal.dmg"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_x64-setup.exe",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_x64-setup.exe"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_x64-setup.exe.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_x64-setup.exe.sig"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_x64.dmg",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_x64.dmg"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_x64_en-US.msi",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_x64_en-US.msi"
+            },
+            {
+                "name": "Cockpit.Tools_0.17.3_x64_en-US.msi.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_0.17.3_x64_en-US.msi.sig"
+            },
+            {
+                "name": "Cockpit.Tools_aarch64.app.tar.gz",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_aarch64.app.tar.gz"
+            },
+            {
+                "name": "Cockpit.Tools_aarch64.app.tar.gz.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_aarch64.app.tar.gz.sig"
+            },
+            {
+                "name": "Cockpit.Tools_universal.app.tar.gz",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_universal.app.tar.gz"
+            },
+            {
+                "name": "Cockpit.Tools_universal.app.tar.gz.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_universal.app.tar.gz.sig"
+            },
+            {
+                "name": "Cockpit.Tools_x64.app.tar.gz",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_x64.app.tar.gz"
+            },
+            {
+                "name": "Cockpit.Tools_x64.app.tar.gz.sig",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/Cockpit.Tools_x64.app.tar.gz.sig"
+            },
+            {
+                "name": "latest.json",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/latest.json"
+            },
+            {
+                "name": "SHA256SUMS.txt",
+                "browser_download_url": "https://github.com/jlcodes99/cockpit-tools/releases/download/v0.17.3/SHA256SUMS.txt"
+            }
+        ]
+    },
+    {
         "tag_name": "v0.17.2",
         "published_at": "2026-03-20T01:49:03Z",
         "html_url": "https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.17.2",
