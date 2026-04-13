@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-04-13 17:02:44
+> 上次检测时间 (UTC+8): 2026-04-13 19:19:48
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v0.21.2
