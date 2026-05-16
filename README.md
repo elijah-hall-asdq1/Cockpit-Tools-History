@@ -2,20 +2,60 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-05-16 21:41:15
+> 上次检测时间 (UTC+8): 2026-05-16 23:00:21
 
 ## 🌟 最新版本 (Latest)
-### 🔥 v0.23.6
-**发布时间 (UTC+8)**: `2026-05-16 18:14:14`  |  [查看详细变更日志](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.23.6)
+### 🔥 v0.23.7
+**发布时间 (UTC+8)**: `2026-05-16 22:20:04`  |  [查看详细变更日志](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.23.7)
 
 | 平台 (Platform) | 为了美观，请下载对应的版本 (Download) |
 | :--- | :--- |
-| 🪟 **Windows** | [Cockpit.Tools_0.23.6_x64-setup.exe.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_x64-setup.exe.sig)<br>[Cockpit.Tools_0.23.6_x64-setup.exe](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_x64-setup.exe)<br>[Cockpit.Tools_0.23.6_x64_en-US.msi.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_x64_en-US.msi.sig)<br>[Cockpit.Tools_0.23.6_x64_en-US.msi](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_x64_en-US.msi) |
-| 🍎 **macOS** | [Cockpit.Tools_0.23.6_aarch64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_aarch64.dmg)<br>[Cockpit.Tools_0.23.6_universal.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_universal.dmg)<br>[Cockpit.Tools_0.23.6_x64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_x64.dmg) |
-| 🐧 **Linux** | [Cockpit.Tools-0.23.6-1.aarch64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools-0.23.6-1.aarch64.rpm.sig)<br>[Cockpit.Tools-0.23.6-1.aarch64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools-0.23.6-1.aarch64.rpm)<br>[Cockpit.Tools-0.23.6-1.x86_64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools-0.23.6-1.x86_64.rpm.sig)<br>[Cockpit.Tools-0.23.6-1.x86_64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools-0.23.6-1.x86_64.rpm)<br>[Cockpit.Tools_0.23.6_aarch64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_aarch64.AppImage.sig)<br>[Cockpit.Tools_0.23.6_aarch64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_aarch64.AppImage)<br>[Cockpit.Tools_0.23.6_amd64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_amd64.AppImage.sig)<br>[Cockpit.Tools_0.23.6_amd64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_amd64.AppImage)<br>[Cockpit.Tools_0.23.6_amd64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_amd64.deb.sig)<br>[Cockpit.Tools_0.23.6_amd64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_amd64.deb)<br>[Cockpit.Tools_0.23.6_arm64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_arm64.deb.sig)<br>[Cockpit.Tools_0.23.6_arm64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_0.23.6_arm64.deb) |
-| 📦 **Other** | [Cockpit.Tools_aarch64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_aarch64.app.tar.gz.sig)<br>[Cockpit.Tools_aarch64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_aarch64.app.tar.gz)<br>[Cockpit.Tools_universal.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_universal.app.tar.gz.sig)<br>[Cockpit.Tools_universal.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_universal.app.tar.gz)<br>[Cockpit.Tools_x64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_x64.app.tar.gz.sig)<br>[Cockpit.Tools_x64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/Cockpit.Tools_x64.app.tar.gz)<br>[SHA256SUMS.txt](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/SHA256SUMS.txt)<br>[latest.json](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.6/latest.json) |
+| 🪟 **Windows** | [Cockpit.Tools_0.23.7_x64-setup.exe.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64-setup.exe.sig)<br>[Cockpit.Tools_0.23.7_x64-setup.exe](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64-setup.exe)<br>[Cockpit.Tools_0.23.7_x64_en-US.msi.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64_en-US.msi.sig)<br>[Cockpit.Tools_0.23.7_x64_en-US.msi](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64_en-US.msi) |
+| 🍎 **macOS** | [Cockpit.Tools_0.23.7_aarch64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.dmg)<br>[Cockpit.Tools_0.23.7_universal.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_universal.dmg)<br>[Cockpit.Tools_0.23.7_x64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64.dmg) |
+| 🐧 **Linux** | [Cockpit.Tools-0.23.7-1.aarch64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.aarch64.rpm.sig)<br>[Cockpit.Tools-0.23.7-1.aarch64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.aarch64.rpm)<br>[Cockpit.Tools-0.23.7-1.x86_64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.x86_64.rpm.sig)<br>[Cockpit.Tools-0.23.7-1.x86_64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.x86_64.rpm)<br>[Cockpit.Tools_0.23.7_aarch64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.AppImage.sig)<br>[Cockpit.Tools_0.23.7_aarch64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.AppImage)<br>[Cockpit.Tools_0.23.7_amd64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.AppImage.sig)<br>[Cockpit.Tools_0.23.7_amd64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.AppImage)<br>[Cockpit.Tools_0.23.7_amd64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.deb.sig)<br>[Cockpit.Tools_0.23.7_amd64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.deb)<br>[Cockpit.Tools_0.23.7_arm64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_arm64.deb.sig)<br>[Cockpit.Tools_0.23.7_arm64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_arm64.deb) |
+| 📦 **Other** | [Cockpit.Tools_aarch64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_aarch64.app.tar.gz.sig)<br>[Cockpit.Tools_aarch64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_aarch64.app.tar.gz)<br>[Cockpit.Tools_universal.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_universal.app.tar.gz.sig)<br>[Cockpit.Tools_universal.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_universal.app.tar.gz)<br>[Cockpit.Tools_x64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_x64.app.tar.gz.sig)<br>[Cockpit.Tools_x64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_x64.app.tar.gz)<br>[SHA256SUMS.txt](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/SHA256SUMS.txt)<br>[latest.json](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/latest.json) |
 
 ## 📜 所有历史版本 (All Versions)
+
+### v0.23.7
+> 📅 **发布时间**: `2026-05-16 22:20:04` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.23.7)
+
+#### 🪟 Windows
+- [Cockpit.Tools_0.23.7_x64-setup.exe.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64-setup.exe.sig)
+- [Cockpit.Tools_0.23.7_x64-setup.exe](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64-setup.exe)
+- [Cockpit.Tools_0.23.7_x64_en-US.msi.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64_en-US.msi.sig)
+- [Cockpit.Tools_0.23.7_x64_en-US.msi](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64_en-US.msi)
+
+#### 🍎 macOS
+- [Cockpit.Tools_0.23.7_aarch64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.dmg)
+- [Cockpit.Tools_0.23.7_universal.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_universal.dmg)
+- [Cockpit.Tools_0.23.7_x64.dmg](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_x64.dmg)
+
+#### 🐧 Linux
+- [Cockpit.Tools-0.23.7-1.aarch64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.aarch64.rpm.sig)
+- [Cockpit.Tools-0.23.7-1.aarch64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.aarch64.rpm)
+- [Cockpit.Tools-0.23.7-1.x86_64.rpm.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.x86_64.rpm.sig)
+- [Cockpit.Tools-0.23.7-1.x86_64.rpm](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools-0.23.7-1.x86_64.rpm)
+- [Cockpit.Tools_0.23.7_aarch64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.AppImage.sig)
+- [Cockpit.Tools_0.23.7_aarch64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_aarch64.AppImage)
+- [Cockpit.Tools_0.23.7_amd64.AppImage.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.AppImage.sig)
+- [Cockpit.Tools_0.23.7_amd64.AppImage](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.AppImage)
+- [Cockpit.Tools_0.23.7_amd64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.deb.sig)
+- [Cockpit.Tools_0.23.7_amd64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_amd64.deb)
+- [Cockpit.Tools_0.23.7_arm64.deb.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_arm64.deb.sig)
+- [Cockpit.Tools_0.23.7_arm64.deb](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_0.23.7_arm64.deb)
+
+#### 📦 Other
+- [Cockpit.Tools_aarch64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_aarch64.app.tar.gz.sig)
+- [Cockpit.Tools_aarch64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_aarch64.app.tar.gz)
+- [Cockpit.Tools_universal.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_universal.app.tar.gz.sig)
+- [Cockpit.Tools_universal.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_universal.app.tar.gz)
+- [Cockpit.Tools_x64.app.tar.gz.sig](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_x64.app.tar.gz.sig)
+- [Cockpit.Tools_x64.app.tar.gz](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/Cockpit.Tools_x64.app.tar.gz)
+- [SHA256SUMS.txt](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/SHA256SUMS.txt)
+- [latest.json](https://github.com/jlcodes99/cockpit-tools/releases/download/v0.23.7/latest.json)
+
+---
 
 ### v0.23.6
 > 📅 **发布时间**: `2026-05-16 18:14:14` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/jlcodes99/cockpit-tools/releases/tag/v0.23.6)
